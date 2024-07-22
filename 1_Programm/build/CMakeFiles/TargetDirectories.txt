@@ -1,4 +1,0 @@
-/home/baronpipistron/InfoTeCS-test-task/1_Programm/build/CMakeFiles/Programm1_lib.dir
-/home/baronpipistron/InfoTeCS-test-task/1_Programm/build/CMakeFiles/Programm1_exe.dir
-/home/baronpipistron/InfoTeCS-test-task/1_Programm/build/CMakeFiles/edit_cache.dir
-/home/baronpipistron/InfoTeCS-test-task/1_Programm/build/CMakeFiles/rebuild_cache.dir

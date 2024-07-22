@@ -1,2 +1,0 @@
-/usr/bin/ar qc libProgramm2_lib.a CMakeFiles/Programm2_lib.dir/src/Handler.cpp.o
-/usr/bin/ranlib libProgramm2_lib.a

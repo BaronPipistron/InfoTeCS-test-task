@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/Programm1_exe.dir/run.cpp.o -o Programm1_exe  libProgramm1_lib.a 
