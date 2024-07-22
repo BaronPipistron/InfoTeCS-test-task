@@ -1,0 +1,2 @@
+/usr/bin/ar qc libProgramm1_lib.a CMakeFiles/Programm1_lib.dir/src/buffer/Buffer.cpp.o CMakeFiles/Programm1_lib.dir/src/thread_handlers/Thread1Handler.cpp.o CMakeFiles/Programm1_lib.dir/src/thread_handlers/Thread2Handler.cpp.o
+/usr/bin/ranlib libProgramm1_lib.a
